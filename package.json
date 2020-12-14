@@ -1,0 +1,20 @@
+{
+  "name": "python-nodejs",
+  "version": "1.0.0",
+  "description": "A Media Center base don Google Drive",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Steven Moore",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.9.1",
+    "python-shell": "^2.0.3"
+  },
+  "devDependencies": {
+    "electron": "^11.1.0"
+  }
+}
